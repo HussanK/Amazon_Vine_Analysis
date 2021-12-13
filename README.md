@@ -8,10 +8,12 @@ We used AWS, postgressql, PySpark, and Pgadmin for the first deliverable as well
 
 ## Results
 The most interesting thing in the digital video games market is this.
+![](https://github.com/HussanK/Amazon_Vine_Analysis/blob/main/images/img_1.PNG)
 
 There are 0 paid reviews for this market.  Or at the very least none that have been rated more then 50% helpful. 
 This clearly skewed the results towards the unpaid results as those became the entirety of our data. 
 The main thing left to report was that as shown below roughly 38 percent of all reviews were 5-star reviews. 
+![](https://github.com/HussanK/Amazon_Vine_Analysis/blob/main/images/img_2.PNG)
 
 ### Summary
 These numbers simply show that the Digital Video Game market is not somewhere that Vine would thrive as there are no paid reviews for these games. Looking across all the data 
